@@ -32,7 +32,7 @@ dove:
  
 ## Interfaccia   :speech_balloon:
 Per rendere possibile anche a chi non conosce un linguaggio di programmazione di consultare il nostro servizio abbiamo ideato una semplice GUI (elaborata in linguaggio java). E resa consultabile come JAR eseguibile.
-![GUI del JAR Runnable](https://github.com/MargheritaGaleazzi/ProgettoEsame/blob/master/foto/GUI.JPG)
+![GUI del JAR Runnable](https://github.com/MargheritaGaleazzi/ProgettoEsame/blob/master/foto/GT.JPG)
 
 ## Possibili rotte dell'applicazione  :bar_chart: 
   
