@@ -42,7 +42,7 @@ Il formato del singolo tweet è il seguente:</p>
 </ul>
 <h2 id="interfaccia---speech_balloon">Interfaccia   💬</h2>
 <p>Per rendere possibile anche a chi non conosce un linguaggio di programmazione di consultare il nostro servizio abbiamo ideato una semplice GUI (elaborata in linguaggio java). E resa consultabile come JAR eseguibile.<br>
-<img src="https://github.com/MargheritaGaleazzi/ProgettoEsame/blob/master/foto/GUI.JPG" alt="GUI del JAR Runnable"></p>
+<img src="https://github.com/MargheritaGaleazzi/ProgettoEsame/blob/master/foto/GT.JPG" alt="GUI del JAR Runnable"></p>
 <h2 id="possibili-rotte-dellapplicazione--bar_chart">Possibili rotte dell’applicazione  📊</h2>
 
 <table>
